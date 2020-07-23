@@ -15,7 +15,7 @@
 
 This will be a pretty extensive lab that will combine a number of the concepts that we have reviewed, including:
 
-* Drawing multiple route types
+* Drawing multiple route types 
 
 * Integrating route helper methods
 
